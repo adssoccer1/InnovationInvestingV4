@@ -1,0 +1,151 @@
+body {
+  margin: 0;
+
+  background-image: url(${rickRiverFlying.png});
+
+  background-repeat: no-repeat; 
+  background-attachment: fixed;
+
+  font-family: 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.col {
+}
+
+tbody{
+  font-size: x-small;
+
+}
+
+.modalBody{
+  text-align: center;
+}
+thead{
+  font-size: small;
+
+}
+th{
+  font-weight: normal;
+}
+
+.fundBody{
+  margin: 30px;
+}
+
+.Stock{
+  margin: 10px; 
+  opacity: 1.0;
+}
+
+#coffee{
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+
+#mainCol {
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 8px;
+}
+
+#FundHeader{
+  text-align: center;
+}
+
+.Stock .middleOfCard{
+  text-align: center;
+}
+
+.FundDisplay{
+  margin-bottom: 10px;
+}
+
+.stockInfoFooter {
+  text-align: center;
+}
+.stockInfoHeaders {
+  text-align: center;
+  border: 0;
+  color: rgba(0, 0, 0, 0.4);
+}
+
+.accordianToggle{
+  text-align: center;
+}
+
+.accordianToggleCenter{
+  display: inline;
+  font-size: small;
+  text-align: left;
+}
+
+.entireApp{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.Jumbotron{
+  margin-top: 5px;
+}
+
+.accordianStockInfo td {
+  padding: 5px;
+}
+#dateLastUpdates{
+  font-size: small;
+}
+#clickForMoreInfo{
+  font-size: xx-small;
+}
+.accordianColTitle{
+  font-size: x-small;
+  color: grey;
+}
+.accordianColInfo{
+  font-size: x-small;
+}
+.accordianTickerHeader{
+  font-size: small;
+}
+
+.introInfoDiv{
+  text-align: center;
+  margin: 40px;
+  font-size: medium;
+  border-style: solid;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 8px;
+  padding: 5px;
+}
+
+.left {
+  margin:auto auto auto 0;
+  text-align:left;
+
+}
+
+#hideButton{
+  margin: auto;
+}
+
+
+#disclaimer{
+  margin-top: 20px;
+  font-size: smaller;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.navbardesc{
+  font-size: x-small;
+  margin-bottom: 0px;
+}
+
