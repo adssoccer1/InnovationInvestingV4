@@ -4,4 +4,4 @@
 
 * After receiving feedback from users, I am working on another iteration of the app.
 
-available here: https://innovation-investing-v2.vercel.app/#/
+available here: https://innovation-investing-v4.vercel.app/#/
